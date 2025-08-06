@@ -38,6 +38,10 @@
 <br>
 <img width="1086" height="1560" alt="image" src="https://github.com/user-attachments/assets/68f2b2a0-06c7-44ce-974a-df2f81c7c6cf" />
 <img width="1082" height="1548" alt="image" src="https://github.com/user-attachments/assets/106cb70c-b495-4bf2-af07-1b46043e0ea0" />
+部分期刊已停止更新，具体更新到哪年请从软件访问：期刊目录，
+<img width="1028" height="976" alt="image" src="https://github.com/user-attachments/assets/d212ebde-100e-47ee-9da1-8871f43f45f8" />
+<img width="1952" height="1648" alt="image" src="https://github.com/user-attachments/assets/f3ab0193-ab5a-4330-afd2-b808bc3293f4" />
+
 🌐 资源来源说明
 所有期刊图片资源来自网络搜索。
 
