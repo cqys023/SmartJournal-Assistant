@@ -28,7 +28,16 @@
 🖼️ 软件界面预览
 软件采用 Tkinter 图形界面，界面简洁清晰。
 <img width="1038" height="980" alt="image" src="https://github.com/user-attachments/assets/dd39860d-3bef-41d1-a3c0-26e917544252" />
-
+<br>使用方法：
+<img width="1026" height="970" alt="image" src="https://github.com/user-attachments/assets/894400cd-09bb-4f50-873e-601951bcdf67" />
+<img width="1038" height="972" alt="image" src="https://github.com/user-attachments/assets/9928777a-e5ba-438b-9f00-92b273e05a69" />
+<img width="1040" height="976" alt="image" src="https://github.com/user-attachments/assets/134fe711-71d9-42c6-8da4-56add4b92266" />
+<img width="1032" height="972" alt="image" src="https://github.com/user-attachments/assets/4fb073f3-b102-42ae-9b3d-a25f05731585" />
+<img width="1714" height="860" alt="image" src="https://github.com/user-attachments/assets/d82b588e-5fe4-45cc-b95b-5619417e7ead" />
+下载完成后效果：
+<br>
+<img width="1086" height="1560" alt="image" src="https://github.com/user-attachments/assets/68f2b2a0-06c7-44ce-974a-df2f81c7c6cf" />
+<img width="1082" height="1548" alt="image" src="https://github.com/user-attachments/assets/106cb70c-b495-4bf2-af07-1b46043e0ea0" />
 🌐 资源来源说明
 所有期刊图片资源来自网络搜索。
 
